@@ -3,7 +3,6 @@ public class String_Functions {
         String A1 = "welcome to string function";
         String A2 = "asifjamadar352@gmail.com";
 
-        // Corrected and improved output statements
         System.out.println(A1 == A1);  // true
         System.out.println(A1.toLowerCase()); // welcome to string function
         System.out.println(A1.toUpperCase()); // WELCOME TO STRING FUNCTION
